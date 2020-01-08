@@ -7,7 +7,7 @@ UFID : 66155949
 
 Email : cns1992@ufl.edu
 
-Operating System : Ubuntu 16.04 LTS
+Operating System : Ubuntu 16.04000 LTS
 *************************************
 
 1. This folder contains several files. Among these files, mapper.c, reducer.c and combiner.c is written by myself and all these three files are compiled. All other files which are needed are downloaded from  https://github.com/bradfa/tlpi-dist. 
